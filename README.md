@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @petrichor-494
-- 👀 I’m interested in Computational Linguistics, ELT and Language Policy
-- 🌱 I’m currently learning Language Policy
-- 💞️ I’m looking to collaborate on English Language Policy in Kurdistan Region of Iraq
+- 👋 Hi, I’m Aga (agaismael.com)
+- 👀 I’m interested in Linux, Project Managment, and Integration of Technology into LTE Programs.
+- 🌱 I’m currently learning Integration of Technology into LTE Programs.
+- 💞️ I’m looking to collaborate on the incorporation of technology in preparing pre-service teachers of the English language.
 - 📫 How to reach me ...
 - aga@bircode.tech 
